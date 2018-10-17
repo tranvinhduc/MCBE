@@ -1,3 +1,0 @@
-/home/tran/Dropbox/Projects/MCBE-ABE/CMakeFiles/rebuild_cache.dir
-/home/tran/Dropbox/Projects/MCBE-ABE/CMakeFiles/MCBE-ABE.dir
-/home/tran/Dropbox/Projects/MCBE-ABE/CMakeFiles/edit_cache.dir

@@ -1,1 +1,0 @@
-/usr/bin/cc    CMakeFiles/MCBE-ABE.dir/main.c.o CMakeFiles/MCBE-ABE.dir/abe.c.o CMakeFiles/MCBE-ABE.dir/types.c.o CMakeFiles/MCBE-ABE.dir/esp.c.o CMakeFiles/MCBE-ABE.dir/readfile.c.o  -o MCBE-ABE  -L/usr/local/lib -Wl,-rpath,/usr/local/lib -lpbc -lgmp 
