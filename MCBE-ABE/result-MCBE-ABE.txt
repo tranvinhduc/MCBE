@@ -1,0 +1,12 @@
+Setup (): 10.336190s
+Extract (): 25128.915000ms
+File & Encode & Decode \\ 
+datatest/102.txt &      27.464160ms &   237.872610ms\\
+datatest/104.txt &      54.193190ms &   510.478210ms \\   
+datatest/108.txt &      107.091460ms &  1035.425070ms \\  
+datatest/202.txt &      55.372160ms &   1036.492450ms \\  
+datatest/204.txt &      103.811240ms &  2017.241940ms \\  
+datatest/208.txt &      209.267950ms &  4143.207880ms \\  
+datatest/252.txt &      68.460650ms &   1628.261840ms \\  
+datatest/254.txt &      127.706720ms &  3101.541250ms \\  
+datatest/258.txt &      259.028040ms &  6425.944480ms   
