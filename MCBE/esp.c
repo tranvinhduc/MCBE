@@ -1,7 +1,6 @@
 //
 // Created by tran on 9/19/18.
 //
-// Version 0: Very inefficient
 
 #include "esp.h"
 
